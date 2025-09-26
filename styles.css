@@ -124,3 +124,38 @@ p.header{
 }
 
 
+hr{
+	border: 1.5px;
+	border-style: solid;
+	border-color: black;
+	margin: 0px;
+}
+
+
+img{
+	width: 50;
+	display: block;
+	margin: 0 auto;
+}
+
+figcaption {
+  background-color: none;
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+video{
+	display: block;
+	margin: auto;
+}
+
+h2.pictureHeading{
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: center;
+	text-decoration-line: none;
+}
